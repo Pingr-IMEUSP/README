@@ -4,4 +4,4 @@ This organization was made to hold the code of a proof of concept. The full Ping
 ## Architecture
 The microservice architecture maintained in this organization follows this diagram:
 
-<img src="" alt="Architecture Scheme">
+<img src="https://github.com/Pingr-IMEUSP/README/blob/main/Arquitetura%20Pingr-POC.jpg?raw=true" alt="Architecture Scheme">
